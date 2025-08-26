@@ -15,5 +15,6 @@
     "allowJs": true,
     "noUnusedLocals": true,
     "strictNullChecks": true
-  }
+  },
+  "include": ["src", "tsconfig.app.json", "tsconfig.node.json", "vite.config.ts"]
 }
