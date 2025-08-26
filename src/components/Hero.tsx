@@ -1,6 +1,5 @@
-import React from "react";
 import { Button } from "@/components/ui/button";
-import { Shield, Phone, Mail } from "lucide-react";
+import { Phone, Mail } from "lucide-react";
 
 const Hero = () => {
   const scrollToContact = () => {
@@ -34,7 +33,7 @@ const Hero = () => {
           <div className="mb-0">
             <div className="inline-flex items-center justify-center mb-0">
               <img 
-                src="/lovable-uploads/IMG_6975 (1).PNG" 
+                src="/lovable-uploads/rt-security-logo.png" 
                 alt="RT Security Logo" 
                 className="w-[400px] h-[200px] md:w-[650px] md:h-[325px] lg:w-[800px] lg:h-[400px] xl:w-[900px] xl:h-[450px] 2xl:w-[1000px] 2xl:h-[500px] object-contain"
               />
